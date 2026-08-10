@@ -1,2 +1,1 @@
-# sql-db-roles
-Learning repository for SQL / DB Admin roles by seniority level
+Learning repository for SQL / DB Admin. Check out the junior, semi-senior, and senior branches for specific level content.
